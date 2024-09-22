@@ -40,7 +40,7 @@ const LinksSection = () => {
           );
         })}
       </div>
-    </footer>
+    </section>
   );
 };
 
