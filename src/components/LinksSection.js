@@ -1,4 +1,4 @@
-// src/components/LinksSection.js
+// src/components/Footer.js
 import React from 'react';
 
 const links = [
@@ -40,8 +40,8 @@ const LinksSection = () => {
           );
         })}
       </div>
-    </section>
+    </footer>
   );
 };
 
-export default LinksSection;
+export default Footer;
